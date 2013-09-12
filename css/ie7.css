@@ -1,0 +1,22 @@
+.comment-nav-item,
+.head-nav-list-item,
+.footer-nav-list-item {
+	display: inline;
+	zoom: 1;
+}
+.article {
+	width: 200px;
+}
+.articleFooter {
+	width: 270px
+}
+.comment-list-item {
+	width: 365px;
+}
+.mainBrandContainer {
+	min-height: 95px;
+}
+
+.articleContainer {
+	min-height: 265px;
+}

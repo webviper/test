@@ -1,0 +1,14 @@
+.comment-list-item {
+	border-right: 1px solid #ececec;
+	border-left: 1px solid #ececec;
+	border-bottom: 2px solid #ececec;
+}
+.article-moreLink:hover {
+	text-decoration: underline;
+}
+.articleFooterContainer {
+	min-height: 300px;
+}
+.sliderContainer {
+	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#33000000', endColorstr='#33000000');
+}
